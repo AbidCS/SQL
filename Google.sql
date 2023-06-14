@@ -1,4 +1,4 @@
-
+https://datalemur.com/questions/odd-even-measurements
 
 WITH CTE AS (
     SELECT *,
